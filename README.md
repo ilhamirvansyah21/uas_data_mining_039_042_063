@@ -1,5 +1,3 @@
-# uas_data_mining_039_042_063
-Data Set : Store Data Performance
 UAS Data Mining (039_042_063)
 - ILHAM IRVANSYAH     (3311911039)
 - ALFA REZA RIFALDY   (3311911042)
