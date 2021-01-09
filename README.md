@@ -1,4 +1,7 @@
-Data Set : Store Data Performance
+### Hello Folks
+
+Data Set  : Store Data Performance
+Web       : kaggle.com
 
 UAS Data Mining (039_042_063)
 - ILHAM IRVANSYAH     (3311911039)
