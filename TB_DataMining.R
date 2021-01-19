@@ -1,0 +1,13 @@
+setwd("D:/DATAMINING/tugas_besar")
+getwd()
+install.packages("C50")
+install.packages("printr")
+library(C50)
+library(printr)
+dataset <- read.csv("storedata.csv", sep = ",")
+model <- C5.0(Performance ~., data=dataset)
+summary(model)
+plot(model)
+datatesting <- dataset[,1:5]
+predictions <- predict(model, dataset)
+table(predictions, dataset$Performance)
